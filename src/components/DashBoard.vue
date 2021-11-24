@@ -39,7 +39,7 @@
                                 <div class="card-body">
                                     <input v-if="recipe.isEditing" type="text" v-model="title" class="form-control">
                                     <h5 v-else class="card-title">{{ recipe.title }}</h5>
-                                    <h6>(3.5)
+                                    <h6>(5) 
                                         <i class="fas fa-star star"></i>
                                         <i class="fas fa-star star"></i>
                                         <i class="fas fa-star star"></i>
