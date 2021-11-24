@@ -14,7 +14,7 @@
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
                     <ul class="navbar-nav ml-auto font-weight-bold">
                         <li class="nav-item">
-                            <router-link to="/" class="nav-link">Logout</router-link>
+                            <router-link to="/" class="nav-link">back</router-link>
                         </li>
                     </ul>
                 </div>
